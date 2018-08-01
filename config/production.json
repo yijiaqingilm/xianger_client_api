@@ -1,0 +1,38 @@
+{
+  "port": 8888,
+  "debug": true,
+  "hashSalt": "fasdf@##hiadg*(ddd_~!@#)",
+  "secret": "fc-GYq@(tzl_59)",
+  "maiyaSecret": "fc-GYq@(tzl_59)",
+  "admin": "today*71",
+  "redis": {
+    "host": "127.0.0.1",
+    "port": 6379,
+    "password": 123456
+  },
+  "session": {
+    "secret": "as;ldgalds@gjdglad(xxx~#)dfg"
+  },
+  "dbApp": {
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "yijiaqing520",
+    "port": 3306,
+    "database": "xiangerla",
+    "connectionLimit": 8,
+    "waitForConnections": true,
+    "queueLimit": 0,
+    "connectTimeout": 10000
+  },
+  "wechat": {
+    "wechatid": "wxc26e211cd3af9737",
+    "wechatkey": "3dbda5af1c60cfde4da99376cf10ae6b",
+    "mchid": "1388604702",
+    "mchkey": "Desoarr2015chenby753777798126290",
+    "config": {
+      "token": "desoarrtoken",
+      "appid": "wxc26e211cd3af9737",
+      "encodingAESKey": "tEt6DZ6oSzUDgApOuTDMjwbrPprcCqR9cuxXXNSKQxW"
+    }
+  }
+}
